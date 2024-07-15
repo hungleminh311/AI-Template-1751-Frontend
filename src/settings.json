@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality.",
+        "title": "Gamble: Engineering the Future, One Idea at a Time"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Gamble: Engineering the Future, One Idea at a Time",
+  "subtitle": "Dive into our world where innovative development meets simple conversation. Let's turn your ambitious concepts into reality."
+}
